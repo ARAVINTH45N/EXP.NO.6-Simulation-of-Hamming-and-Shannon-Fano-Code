@@ -5,7 +5,7 @@ Consider a discrete memoryless source with symbols and statistics {0.125, 0.0625
 To compute the Average Codeword Length, Entropy, Efficiency, Redundancy, and Variance for a discrete memoryless source using Huffman and Shannon-Fano coding based on the given probabilities and codeword lengths.
 
 ## TOOLS REQUIRED :
-Python: A versatile language for scientific computing and signal processing. NumPy & Matplotlib: Libraries for numerical operations and high-quality visualizations, essential for demonstrating sampling.
+Python: A versatile language for scientific computing and signal processing. NumPy & Matplotlib: Libraries for numerical oper\Rations and high-quality visualizations, essential for demonstrating sampling.
 
 ## PROGRAM:
 ```
